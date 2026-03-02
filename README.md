@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**drcornejo19/drcornejo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on Business Intelligence and performance analysis.
 
-Here are some ideas to get you started:
+## 🔎 About Me
+I work on end-to-end data projects including data cleaning, modeling and visualization.  
+My background in accounting strengthens my understanding of financial and operational impact in data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Power BI (Data Modeling & DAX)
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- BigQuery
+- Git & GitHub
+
+## 📊 Featured Projects
+- NBA Scouting & Draft Efficiency Analysis
+- AdventureWorks Financial & Performance Dashboard
+- Biogenesys Health Data Analysis
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/david-cornejo
