@@ -19,4 +19,4 @@ My background in accounting strengthens my ability to connect technical analysis
 - Biogenesys Health Data Analysis  
 
 ## Contact
-- LinkedIn:(https://www.linkedin.com/in/david-cornejo-48a713279/)
+- LinkedIn: https://www.linkedin.com/in/david-cornejo-48a713279/
