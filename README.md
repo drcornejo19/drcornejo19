@@ -17,7 +17,7 @@ My background in accounting strengthens my ability to connect technical analysis
 ## Featured Projects
 - [NBA Scouting & Draft Efficiency Analysis](https://github.com/drcornejo19/PF-NBA-Scouting-Analytics)
 - [Biogenesys Health Data Analysis](https://github.com/drcornejo19/biogenesys-data-analysis)
-- AdventureWorks Financial & Performance Dashboard
+- [AdventureWorks Financial & Performance Dashboard](https://github.com/drcornejo19/AWC-Performance-Analysis)
 - BiteRush – Database Design & Business Query Analysis
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/david-cornejo-48a713279/
