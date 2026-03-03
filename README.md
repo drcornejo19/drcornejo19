@@ -22,9 +22,9 @@ I enjoy structured problem-solving, turning raw data into actionable insights, a
 
 ## 🛠 Tech Stack
 
-- 📊 Power BI (Data Modeling & DAX)
-- 🗄 SQL Server
-- 🐍 Python (Pandas, NumPy, Matplotlib)
+-📊 Power BI (Data Modeling & DAX)
+-🗄 SQL Server
+-🐍 Python (Pandas, NumPy, Matplotlib)
 - ☁ BigQuery
 - 🧰 Git & GitHub
 
@@ -32,13 +32,13 @@ I enjoy structured problem-solving, turning raw data into actionable insights, a
 
 ## 📂 Featured Projects 
 
--🏀 [NBA Scouting & Draft Efficiency Analysis](https://github.com/drcornejo19/PF-NBA-Scouting-Analytics)
+🏀 [NBA Scouting & Draft Efficiency Analysis](https://github.com/drcornejo19/PF-NBA-Scouting-Analytics)
 
--🏥 [Biogenesys Health Data Analysis](https://github.com/drcornejo19/biogenesys-data-analysis)
+🏥 [Biogenesys Health Data Analysis](https://github.com/drcornejo19/biogenesys-data-analysis)
 
--📈[AdventureWorks Financial & Performance Dashboard](https://github.com/drcornejo19/AWC-Performance-Analysis)
+📈[AdventureWorks Financial & Performance Dashboard](https://github.com/drcornejo19/AWC-Performance-Analysis)
 
--🍔[BiteRush – Relational Database Project](https://github.com/drcornejo19/Biterush-SQL-Business-Analysis)
+🍔[BiteRush – Relational Database Project](https://github.com/drcornejo19/Biterush-SQL-Business-Analysis)
 
 ---
 
