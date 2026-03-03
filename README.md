@@ -7,16 +7,20 @@
 
 ## 🚀 About Me
 
-I build end-to-end data solutions including:
+I am a Data Analyst focused on Business Intelligence and performance analytics, with a background in accounting that allows me to connect data insights with financial and operational impact.
 
-- Data cleaning & transformation  
-- Relational data modeling  
-- Dashboard development (Power BI)  
-- Business performance analysis  
+I enjoy working on structured, end-to-end projects — from data cleaning and modeling to dashboard development and business analysis. My approach combines analytical thinking with practical execution, ensuring that insights are clear, measurable, and decision-oriented.
 
-My background in accounting strengthens my ability to connect technical analysis with financial and operational impact.
+💡 What defines me:
 
-I enjoy structured problem-solving, turning raw data into actionable insights, and continuously improving my analytical skills.
+- 📊 Strong analytical and critical thinking  
+- 🧩 Structured problem-solving approach  
+- 📚 Continuous and autonomous learning  
+- 🎯 Results-oriented mindset  
+- 🤝 Collaborative and team-focused work style  
+- 🗂 High level of organization and attention to detail  
+
+I am passionate about transforming raw data into meaningful information that supports strategic decisions and drives business performance.
 
 ---
 
