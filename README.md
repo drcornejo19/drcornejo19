@@ -1,7 +1,6 @@
 # 👋 Hi, I'm David
 
 💼 Data Analyst specialized in Business Intelligence and performance analytics.  
-📊 Passionate about transforming data into strategic decisions.  
 📍 Buenos Aires, Argentina  
 
 ---
