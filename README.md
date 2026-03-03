@@ -16,7 +16,7 @@ I enjoy working on structured, end-to-end projects — from data cleaning and mo
 - 📊 Strong analytical and critical thinking  
 - 🧩 Structured problem-solving approach  
 - 📚 Continuous and autonomous learning  
-- 🎯 Results-oriented mindset  
+- 🎯  Results-oriented mindset  
 - 🤝 Collaborative and team-focused work style  
 - 🗂 High level of organization and attention to detail  
 
