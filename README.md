@@ -22,9 +22,9 @@ I enjoy structured problem-solving, turning raw data into actionable insights, a
 
 ## 🛠 Tech Stack
 
--📊 Power BI (Data Modeling & DAX)
--🗄 SQL Server
--🐍 Python (Pandas, NumPy, Matplotlib)
+- 📊 Power BI (Data Modeling & DAX)
+- 🗄 SQL Server
+- 🐍 Python (Pandas, NumPy, Matplotlib)
 - ☁ BigQuery
 - 🧰 Git & GitHub
 
